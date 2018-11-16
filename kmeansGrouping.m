@@ -59,8 +59,8 @@ plot(clusters(:,4),'k.')
 hold on
 plot(clusters(:,5),'y.')
 hold off
-title('�� ������� ������������ ��� �� hum ��� �� maxtemp')
+title('Το γράφημα ομαδοποίησης για το hum και το maxtemp')
 xlablel('omades')
-ylabel('�� ����� ��� hum ��� maxtemp')
-legend('�����������')
+ylabel('Οι τιμές των hum και maxtemp')
+legend('Ομαδοποίηση')
 end
